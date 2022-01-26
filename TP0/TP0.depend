@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1643231060 source:c:\users\nafkh\desktop\cpp\tp0\main.cpp
+	<iostream>
+	"imp.cpp"
+
+1643231415 c:\users\nafkh\desktop\cpp\tp0\imp.cpp
+	<iostream>
+	"bib.h"
+
+1643230457 c:\users\nafkh\desktop\cpp\tp0\bib.h
+
