@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1643287979 source:c:\users\nafkh\desktop\cpp\projet\src\personne.cpp
+	"Personne.h"
+
+1643288526 c:\users\nafkh\desktop\cpp\projet\include\personne.h
+	<string>
+
+1643288030 source:c:\users\nafkh\desktop\cpp\projet\main.cpp
+	<iostream>
+	<Personne.h>
+	<Etudiant.h>
+
+1643289576 c:\users\nafkh\desktop\cpp\projet\include\etudiant.h
+	<string>
+	<Personne.h>
+
+1643289209 source:c:\users\nafkh\desktop\cpp\projet\src\etudiant.cpp
+	"Etudiant.h"
+
